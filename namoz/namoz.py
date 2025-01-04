@@ -6,7 +6,7 @@ import asyncio
 
 
 
-bot = Bot(token="7685528937:AAGYsDuuU6mSN4sFFBdgSCNZVAtkDHNKPcA")
+bot = Bot(token="BOT TOKEN")
 dp = Dispatcher()
 
 API_URL = "http://api.aladhan.com/v1/timingsByCity"
